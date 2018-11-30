@@ -78,9 +78,17 @@
 
 // var arr = [3, 10, 5 , 4]
 //
-// for(i=0; i < arr.length; i++) {
-//     console.log(arr[i] * 3)
-// }
+for(i=0; i < arr.length; i++) {
+    console.log(arr[i] * 3)
+}
+
+
+for(i=0; i < arr.length; i++) {
+    console.log(arr[i] * 3)
+}
+
+
+
 //
 // arr.forEach(function(el) {
 //     console.log(el * 3);
